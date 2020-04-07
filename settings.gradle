@@ -1,0 +1,3 @@
+rootProject.name='CustomDemo2'
+include ':app'
+include ':asm_lifecycle_plugin'
